@@ -40,5 +40,9 @@ public class Movie {
 	public void setDirector(String director) {
 		this.director = director;
 	}
+	public void ifDirectedByDo(String director2, MovieAction movieAction) {
+		
+		
+	}
 	
 }
